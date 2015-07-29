@@ -1,6 +1,6 @@
 <?php
  /**
-   @rudra shrestha - rusagar.oom
+   @rudra shrestha - rusagar.com
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
